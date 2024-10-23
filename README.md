@@ -57,7 +57,7 @@ In this portfolio, I've included some of my projects in SQL, Python, Excel, Powe
 ## Contact Me
 Thank you for taking the time to view my portfolio. If you have any questions or would like to connect with me, please feel free to reach out via LinkedIn or email:
 
-LinkedIn: [Pranay's LinkedIn Profile](https://www.linkedin.com/in/monal-payghan-286808169/)
+LinkedIn: [Monal's LinkedIn Profile](https://www.linkedin.com/in/monal-payghan-286808169/)
 
 Email: payghan4@gmail.com
 
