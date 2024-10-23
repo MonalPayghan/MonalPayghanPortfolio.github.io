@@ -1,7 +1,7 @@
 # MY  Portfolio
 
 ## About Me
-Hi, I'm Pranay, a data analyst with 3 years of experience in data analytics, data visualization, and data modeling. I have completed my Masters's in Data Science, and I'm passionate about using data to drive insights and make better decisions.
+Hi, I'm Monal, a data analyst with approx 2 years of experience in data analytics, data visualization, and data modeling. I have completed my Masters's in Data Science, and I'm passionate about using data to drive insights and make better decisions.
 
 In this portfolio, I've included some of my projects in SQL, Python, Excel, Power BI, Tableau, Looker Studio, and more. I hope you find these projects informative and interesting.
 
@@ -57,8 +57,8 @@ In this portfolio, I've included some of my projects in SQL, Python, Excel, Powe
 ## Contact Me
 Thank you for taking the time to view my portfolio. If you have any questions or would like to connect with me, please feel free to reach out via LinkedIn or email:
 
-LinkedIn: [Pranay's LinkedIn Profile](https://www.linkedin.com/in/pranay-girde-b0501016b)
+LinkedIn: [Pranay's LinkedIn Profile](https://www.linkedin.com/in/monal-payghan-286808169/)
 
-Email: prngrd8@gmail.com
+Email: payghan4@gmail.com
 
 I'm open to collaborations, job opportunities, or any other inquiries related to data analysis. I look forward to hearing from you!
